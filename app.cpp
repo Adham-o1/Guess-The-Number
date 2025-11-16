@@ -53,6 +53,6 @@ int main ()
             cout << "[3] The correct answer : " << seq[2][4] << endl;
         }
         
-        cout << "Your Points : "<< points << " / 3" << endl;        
+        cout << "Your Points : "<< points << " / 3" << endl;
     return 0;
 }
