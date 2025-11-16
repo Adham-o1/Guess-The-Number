@@ -1,26 +1,15 @@
 # VS Code settings
 .vscode/
 
+# Executables
+*.exe
+*.out
+
 # Build folders
 build/
-bin/
-out/
-*.exe
-*.obj
+Debug/
+Release/
+
+# Object files
 *.o
-
-# CMake
-CMakeFiles/
-CMakeCache.txt
-cmake_install.cmake
-Makefile
-
-# Visual Studio
-.vs/
-
-# System
-Thumbs.db
-.DS_Store
-
-# Logs
-*.log
+*.obj
