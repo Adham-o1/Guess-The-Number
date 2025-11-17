@@ -9,7 +9,6 @@ int main ()
         {1, 5, 10, 16, 23},
         {2, 4, 8, 16, 32},
         {1, 1, 2, 3, 5}};
-    string msg [3] = {};
 
         cout << "====================================\n";
         cout << "Type The Missing Number In Sequences\n";
